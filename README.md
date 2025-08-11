@@ -1,4 +1,67 @@
-## Hi there 👋
+# Hi, I'm Muhammad Sikandar 👋
+
+🚀 **Flutter Developer** | Mobile Applications | Firebase | REST APIs
+
+I build high-quality mobile apps with a focus on performance, clean UI, and real-world usability.  
+Here are some of my featured projects:
+
+---
+
+## 📱 Live Projects
+
+### 🍔 Muftaax – Food Ordering & Rider Tracking
+A food delivery app where users can:
+- Browse restaurants and order food.
+- Track the rider’s live location in real time.
+- Seamless payment & order management.
+**Tech:** Flutter, Firebase, Google Maps API  
+**Status:** Live on Play Store *(link if available)*
+
+---
+
+### 🌐 AgeLess – Social Media App
+A modern social platform that enables users to:
+- Connect, share posts, and interact in real time.
+- Engage in a sleek, responsive UI with smooth navigation.  
+**Tech:** Flutter, Firebase  
+**Status:** Live *(link if available)*
+
+---
+
+## 🛠 Upcoming Projects
+
+### 🗺 Lusyi – Map-Based Safety App
+Designed for road safety:
+- Real-time GPS tracking.
+- Over-speed detection & instant alerts.
+- Emergency location sharing.  
+**Tech:** Flutter, Firebase, Google Maps API  
+**Status:** In development
+
+---
+
+### 🎟 Xplct – Social Media Event Platform
+An event-focused social app built for **three roles**:
+- **Event Creators** – create and manage events.
+- **Entertainers** – showcase performances and join events.
+- **Attendees** – discover and join events.  
+**Tech:** Flutter, Firebase, Google Maps API  
+**Status:** Build sent for live release
+
+---
+
+## 🛠 Tech Stack
+- **Languages & Frameworks:** Flutter (Dart)
+- **Backend & Databases:** Firebase (Auth, Firestore, Storage, App Check)
+- **APIs & Services:** Google Maps API, REST APIs
+- **Tools:** Git, GitHub, Android Studio, VS Code
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](your-link) | [Email](mailto:youremail@example.com) | [GitHub](https://github.com/yourusername)
+
+---
 
 <!--
 **mhSikandar/mhsikandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
