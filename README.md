@@ -15,7 +15,7 @@ A food delivery app where users can:
 - Track the rider’s live location in real time.
 - Seamless payment & order management.
 **Tech:** Flutter, Firebase, Google Maps API  
-**Status:** Live on Play Store *(link if available)*
+**Status:** Live on Play Store *(https://bit.ly/41Ep990)* App Store *(https://bit.ly/412TDRY)*
 
 ---
 
@@ -24,7 +24,7 @@ A modern social platform that enables users to:
 - Connect, share posts, and interact in real time.
 - Engage in a sleek, responsive UI with smooth navigation.  
 **Tech:** Flutter, Firebase  
-**Status:** Live *(link if available)*
+**Status:** Live App Store *http://bit.ly/3HktpDS*
 
 ---
 
@@ -59,7 +59,7 @@ An event-focused social app built for **three roles**:
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](your-link) | [Email](mailto:youremail@example.com) | [GitHub](https://github.com/yourusername)
+[LinkedIn]([your-link](https://www.linkedin.com/in/muhammad-sikandar-a2519b250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) | [Email](mhsikandar3@gmail.com) 
 
 ---
 
